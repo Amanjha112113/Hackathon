@@ -21,5 +21,4 @@ About Section: Displays four pictures with descriptions of the team members.
 Skills Section: Lists different programming languages and technologies the team is proficient in.
 Work Section: Displays images of different collaborative projects.
 Contact Section: Allows users to get in touch with the team.
-
 Website Link : https://team-four.netlify.app/
